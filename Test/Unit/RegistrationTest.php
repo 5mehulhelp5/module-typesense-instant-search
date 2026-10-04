@@ -61,7 +61,7 @@ class RegistrationTest extends TestCase
 
         self::assertSame('dmlab/module-typesense-instant-search', $composer['name']);
         self::assertSame('OSL-3.0', $composer['license']);
-        self::assertSame('0.1.0', $composer['version']);
+        self::assertSame('0.1.1', $composer['version']);
         self::assertSame('magento2-module', $composer['type']);
 
         // Core's generic client is used by this module's key machinery, so it must
