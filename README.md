@@ -1,5 +1,8 @@
 # DmLab_TypesenseInstantSearch
 
+[![CI](https://github.com/dmlab-work/module-typesense-instant-search/actions/workflows/ci.yml/badge.svg)](https://github.com/dmlab-work/module-typesense-instant-search/actions/workflows/ci.yml) [![codecov](https://codecov.io/gh/dmlab-work/module-typesense-instant-search/graph/badge.svg)](https://codecov.io/gh/dmlab-work/module-typesense-instant-search) [![Packagist](https://img.shields.io/packagist/v/dmlab/module-typesense-instant-search)](https://packagist.org/packages/dmlab/module-typesense-instant-search) [![Downloads](https://img.shields.io/packagist/dt/dmlab/module-typesense-instant-search)](https://packagist.org/packages/dmlab/module-typesense-instant-search)
+![License](https://img.shields.io/badge/license-OSL--3.0-green) ![Magento](https://img.shields.io/badge/Magento-2.4-orange) ![PHP](https://img.shields.io/badge/PHP-8.3--8.5-blue)
+
 Storefront instant, typo-tolerant search-as-you-type for Magento 2 (L3 of the Typesense suite).
 Replaces the stock autocomplete **in place** with a rich product dropdown (title / image / price /
 SKU). Free and uncapped, no Hyvä/Alpine/React dependency — it works on stock Luma through Magento's
